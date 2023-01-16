@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/Mona/static/js/main.d05683aa.js",
+    "main.css": "/Mona/static/css/main.3a8a5cf4.css",
+    "main.js": "/Mona/static/js/main.8a3ecbf2.js",
     "index.html": "/Mona/index.html",
-    "main.d05683aa.js.map": "/Mona/static/js/main.d05683aa.js.map"
+    "main.3a8a5cf4.css.map": "/Mona/static/css/main.3a8a5cf4.css.map",
+    "main.8a3ecbf2.js.map": "/Mona/static/js/main.8a3ecbf2.js.map"
   },
   "entrypoints": [
-    "static/js/main.d05683aa.js"
+    "static/css/main.3a8a5cf4.css",
+    "static/js/main.8a3ecbf2.js"
   ]
 }
